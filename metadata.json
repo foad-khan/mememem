@@ -1,0 +1,5 @@
+{
+  "name": "AI Meme Generator",
+  "description": "A modern, responsive meme generator built with React, TypeScript, and Tailwind CSS. Upload your own image or use a placeholder, add top and bottom text, and download your creation.",
+  "requestFramePermissions": []
+}
